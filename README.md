@@ -1,6 +1,6 @@
-Learning Platform: FreeCodeCamp
+# Learning Platform: FreeCodeCamp
 
-Certification Name: JavaScript Algorithms and Data Structures
+## Certification Name: JavaScript Algorithms and Data Structures
 
-Project 1: Pyramid Generator
+### Project 1: Pyramid Generator
 
